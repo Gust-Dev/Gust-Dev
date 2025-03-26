@@ -20,10 +20,11 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ## Estatísticas do GitHub
 
-<div >
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" alt="Linguagens mais utilizadas"/>
-</div>
+</p>
+
 
 ## Conecte-se comigo
 [![Linkedin Badge](https://img.shields.io/badge/-Gust--Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)

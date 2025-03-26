@@ -10,9 +10,9 @@
     Acredito na melhoria contínua através do autoconhecimento e evolução constante.
   </p>
 
-  <p align="center">
-   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-    <sub>"A verdadeira sabedoria está em reconhecer a própria ignorância." — Sócrates</sub>
+  <p align="right">
+<sub>"A verdadeira sabedoria está em reconhecer a própria ignorância." — Sócrates</sub>
+     &emsp;   &emsp;   &emsp;
   </p>
 </div>
 

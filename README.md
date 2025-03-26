@@ -1,5 +1,5 @@
-![Texto alternativo](hello.gif?v=1)
-## Sobre mim
+![Alt Text](hello.gif)
+
 
 <div>
   <p>

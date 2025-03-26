@@ -1,5 +1,4 @@
-<div class="AnimatedImagePlayer enabled playing"> <img src="hello.gif"> </div>
-
+![Texto alternativo](hello.gif?v=1)
 ## Sobre mim
 
 <div>

@@ -1,13 +1,14 @@
+---
+
 <img src="hello1.gif"/>
+
+---
 
 
 
 <div>
   <p>
-    Desenvolvedor front-end com experiência em UI/UX, JavaScript e desenvolvimento web.  
-    Focado em criar soluções eficientes e alinhadas a requisitos técnicos e funcionais.  
-    Também atuo com ilustração digital, Concept Art e Pixel Art - Criação e Animação — (Para Jogos ou Interfaces).  
-   
+   𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚌𝚘𝚖 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚒𝚊 𝚎𝚖 𝚄𝙸/𝚄𝚇, 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 𝚎 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚠𝚎𝚋. 𝙵𝚘𝚌𝚊𝚍𝚘 𝚎𝚖 𝚌𝚛𝚒𝚊𝚛 𝚜𝚘𝚕𝚞ç𝚘𝚎𝚜 𝚎𝚏𝚒𝚌𝚒𝚎𝚗𝚝𝚎𝚜 𝚎 𝚊𝚕𝚒𝚗𝚑𝚊𝚍𝚊𝚜 𝚊 𝚛𝚎𝚚𝚞𝚒𝚜𝚒𝚝𝚘𝚜 𝚝𝚎𝚌𝚗𝚒𝚌𝚘𝚜 𝚎 𝚏𝚞𝚗𝚌𝚒𝚘𝚗𝚊𝚒𝚜. 𝚃𝚊𝚖𝚋𝚎𝚖 𝚊𝚝𝚞𝚘 𝚌𝚘𝚖 𝚒𝚕𝚞𝚜𝚝𝚛𝚊ç𝚊𝚘 𝚍𝚒𝚐𝚒𝚝𝚊𝚕, 𝙲𝚘𝚗𝚌𝚎𝚙𝚝 𝙰𝚛𝚝 𝚎 𝙿𝚒𝚡𝚎𝚕 𝙰𝚛𝚝 - 𝙲𝚛𝚒𝚊ç𝚊𝚘 𝚎 𝙰𝚗𝚒𝚖𝚊ç𝚊𝚘 — (𝙿𝚊𝚛𝚊 𝙹𝚘𝚐𝚘𝚜 𝚘𝚞 𝙸𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜).
   </p>
 
   <p align="right">
@@ -17,25 +18,16 @@
 </div>
 
   
- 
-  
-  
-
-
-
-
-
-
-## Estatísticas e Ferramentas
-
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" width="360"  alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" width="321,6" alt="Linguagens mais utilizadas"/>
-
-  
-<div align="center"> Tecnologias & Ferramentas</div>
-
 ---
+<h3 align="center">𝚃𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊𝚜, 𝙵𝚎𝚛𝚛𝚊𝚖𝚎𝚗𝚝𝚊𝚜 𝚎 𝙴𝚜𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚊𝚜</>
+
+  <h9 align="center"><sub>◥▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀◤</sub></h9>
+
+</p>
+<br>
+
+
+
 
 
 
@@ -51,6 +43,13 @@
 
 </p>
 
+  <div align="center">
+<p aling="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" width="360"  alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" width="321,6" alt="Linguagens mais utilizadas"/>
+</p>
+
+</div>
 
 ## Conecte-se comigo
 

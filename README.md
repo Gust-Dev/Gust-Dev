@@ -1,4 +1,4 @@
-<img src="hello.gif?random=123">
+<div class="AnimatedImagePlayer enabled playing"> <img src="hello.gif"> </div>
 
 ## Sobre mim
 

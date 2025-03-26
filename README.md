@@ -53,7 +53,19 @@
 
 
 ## Conecte-se comigo
-[![Linkedin Badge](https://img.shields.io/badge/-Gust--Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/gusta-dev/])
-<!-- Substitua "seu-perfil" pelo seu URL do LinkedIn -->
 
-<!-- Adicione outros links de redes sociais se desejar -->
+
+<div align="center">
+
+| GitHub | LinkedIn | Portfólio |
+|--------|----------|-----------|
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gust-Dev) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gust--Dev-2C2C2C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusta-dev/) | [![Portfólio Badge](https://img.shields.io/badge/Portfólio-2C2C2C?style=flat&logo=About.me&logoColor=white)](https://seu-portfolio.com) |
+
+
+</div>
+ 
+  
+
+
+
+

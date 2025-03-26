@@ -20,13 +20,9 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafio
 
 ## Estatísticas do GitHub
 
-<p align="center" style="
-    gap: 30px;
-    display: flex;
-    align-items: flex-start;
-">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" alt="Linguagens mais utilizadas"/>
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" width="300"  alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" width="267" alt="Linguagens mais utilizadas"/>
 </p>
 
 

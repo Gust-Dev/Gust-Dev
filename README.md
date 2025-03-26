@@ -2,12 +2,22 @@
 
 ## Sobre mim
 
-<p> Desenvolvedor front-end com experiência em UI/UX, JavaScript e desenvolvimento web. Focado em criar soluções eficientes e alinhadas a requisitos técnicos e funcionais. Também atuo com ilustração digital e pixel art - (Para Jogos ou Interfaces). Acredito na melhoria contínua através do autoconhecimento e evolução constante.
+<div>
+  <p>
+    Desenvolvedor front-end com experiência em UI/UX, JavaScript e desenvolvimento web.  
+    Focado em criar soluções eficientes e alinhadas a requisitos técnicos e funcionais.  
+    Também atuo com ilustração digital e pixel art — (Para Jogos ou Interfaces).  
+    Acredito na melhoria contínua através do autoconhecimento e evolução constante.
+  </p>
 
-<div><p align="center"><sub>"A verdadeira sabedoria está em reconhecer a própria ignorância." - Sócrates </sub></p> </div>
+  <p align="center">
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+    <sub>"A verdadeira sabedoria está em reconhecer a própria ignorância." — Sócrates</sub>
+  </p>
+</div>
 
   
-  </p>
+ 
   
   
 

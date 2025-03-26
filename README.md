@@ -59,7 +59,7 @@
 
 | GitHub | LinkedIn | Portfólio |
 |--------|----------|-----------|
-| [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gust-Dev) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gust--Dev-2C2C2C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusta-dev/) | [![Portfólio Badge](https://img.shields.io/badge/Portfólio-2C2C2C?style=flat&logo=About.me&logoColor=white)](https://seu-portfolio.com) |
+| [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Gust-Dev) | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gust--Dev-2C2C2C?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusta-dev) | [![Portfólio Badge](https://img.shields.io/badge/Portfólio-2C2C2C?style=flat&logo=About.me&logoColor=white)](https://seu-portfolio.com) |
 
 
 </div>

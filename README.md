@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Gustavo Oliveira! 👋
 
-<!--
-**Gust-Dev/Gust-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprimoramento contínuo. Tenho experiência em desenvolvimento web e adoro criar soluções que façam a diferença.
 
-Here are some ideas to get you started:
+## Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" alt="JavaScript"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="25" alt="Node.js"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25" alt="React"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" alt="Python"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" alt="Git"/> 
+</div>
+
+
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" alt="Linguagens mais utilizadas"/>
+</div>
+
+## Conecte-se comigo
+[![Linkedin Badge](https://img.shields.io/badge/-Gust--Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
+<!-- Substitua "seu-perfil" pelo seu URL do LinkedIn -->
+
+<!-- Adicione outros links de redes sociais se desejar -->

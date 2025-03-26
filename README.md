@@ -13,7 +13,7 @@
 
   <p align="right">
 <sub>"A verdadeira sabedoria está em reconhecer a própria ignorância." — Sócrates</sub>
-     &emsp;   &emsp;   &emsp;
+     &emsp;   &emsp;   &emsp; &emsp;
   </p>
 </div>
 

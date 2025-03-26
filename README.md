@@ -53,7 +53,7 @@
 
 
 ## Conecte-se comigo
-[![Linkedin Badge](https://img.shields.io/badge/-Gust--Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)](https://www.linkedin.com/in/seu-perfil)
+[![Linkedin Badge](https://img.shields.io/badge/-Gust--Dev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil)]([https://www.linkedin.com/in/gusta-dev/])
 <!-- Substitua "seu-perfil" pelo seu URL do LinkedIn -->
 
 <!-- Adicione outros links de redes sociais se desejar -->

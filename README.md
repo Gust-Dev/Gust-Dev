@@ -8,7 +8,7 @@
 
 <div>
   <p>
-   Desenvolvedor front-end com experiencia em ui/ux, javascript e desenvolvimento web. Focado em criar soluçoes eficientes e alinhadas a requisitos tecnicos e funcionais. Tambem atuo com Ilustraçao Digital, Concept Art, Pixel Art (Criaçao e Animaçao), para jogos ou interfaces.
+   Desenvolvedor front-end com experiencia em ui/ux, javascript e desenvolvimento web. Focado em criar soluçoes eficientes e alinhadas a requisitos tecnicos e funcionais. Tambem atuo com Ilustraçao Digital, Concept Art, Pixel Art (Criaçâo e Animaçao), para jogos ou interfaces.
   </p>
 
 </div>

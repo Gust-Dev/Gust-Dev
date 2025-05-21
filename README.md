@@ -40,7 +40,7 @@
   <div align="center">
     
 <p aling="center" >
-  <img src="https://github-profile-trophy.vercel.app/?username=Gust-Dev&theme=radical" />
+
 
 </p>
 

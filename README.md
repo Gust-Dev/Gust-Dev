@@ -38,7 +38,10 @@
 </p>
 
   <div align="center">
-
+<p aling="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Gust-Dev&show_icons=true&theme=radical" width="360"  alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gust-Dev&layout=compact&theme=radical" width="321,6" alt="Linguagens mais utilizadas"/>
+</p>
 
 </div>
 
